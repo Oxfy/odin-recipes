@@ -2,8 +2,27 @@ body {
     font-family:'Noto Sans', 'Poppins', 'Roboto';
 }
 
+a {
+    color: blue;
+}
+
 h1 {
+    font-size: 26px;
     font-weight: bold;
+    text-align: center;
+}
+
+.Food-Picture {
+    text-align: center;
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p.description {
+    font-style:italic;
 }
 
 .Recipy-link {
